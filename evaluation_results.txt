@@ -1,0 +1,17 @@
+GAN Evaluation Results
+=====================
+
+Number of evaluated images: 20
+Accuracy: 60.00%
+
+Confusion Matrix:
+Real classified as Real: 8
+Real classified as Fake: 2
+Fake classified as Real: 6
+Fake classified as Fake: 4
+
+Analysis:
+- True Positive Rate (Real correctly identified): 80.00%
+- True Negative Rate (Fake correctly identified): 40.00%
+- False Positive Rate (Fake identified as Real): 60.00%
+- False Negative Rate (Real identified as Fake): 20.00%
